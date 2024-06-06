@@ -7,7 +7,9 @@
 
 Here are some ideas to get you started:
 
+<h1> 
 - Faculdade 
 - Tempo na area
 - Meu foco 
 - Um pouco sobre minha historia na programação 
+<h1>
