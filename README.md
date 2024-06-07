@@ -2,7 +2,7 @@
 
 ## Hi, I am Thomas Jefferson 
 <br>
-💢 Thomas Jefferson <br>
+💢 Thomas Jefferson dos Reis Bezerra <br>
 📚 Cursando Engenharia de Software - UCB <br>
 📃 Sobre <br>
 <br>
