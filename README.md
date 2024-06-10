@@ -23,6 +23,13 @@
   
 </div>        
 
+-------
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDevDf&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+
+
 
 -------
 
@@ -33,6 +40,7 @@
   <a href="https://www.instagram.com/reiizrz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </div>
+
 
 
 
