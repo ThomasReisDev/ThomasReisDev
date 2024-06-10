@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasReisDev&hide_title=true&border_color=8300ff&theme=transparent&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasReisDev&hide_title=true&border_color=8300ff&theme=tsynthwave&show_icons=true)
 
 
 
