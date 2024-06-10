@@ -18,7 +18,7 @@
 
   | <h2>Front-End</h2> | | <h2>Back-End</h2> | | <h2>Mobile</h2> |
   | - | - | - | - | - |
-  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/html-ec6231?style=for-the-badge&logo=html5&logoColor=ec6231&labelColor=white"> </br> <img width="100px" src ="https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=white"> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> </h3> |  | <h3 align="center">  <img width="100px" src =""/> </br> <img width="100vw" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> </h3> |  | <h3 align="center"> </br> <img width="100px" src =""/> </br> <img width="100px" src =""/> </br> <img width="100px" src=""/> </br> </h3> |
+  | <h3 align="center"> <img width="100px" src="https://img.shields.io/badge/html-ec6231?style=for-the-badge&logo=html5&logoColor=ec6231&labelColor=white"> </br> <img width="80px" src ="https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=white"> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> </h3> |  | <h3 align="center">  <img width="100px" src =""/> </br> <img width="100vw" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> <img width="100px" src=""/> </br> </h3> |  | <h3 align="center"> </br> <img width="100px" src =""/> </br> <img width="100px" src =""/> </br> <img width="100px" src=""/> </br> </h3> |
   </a>
   
 </div>        
