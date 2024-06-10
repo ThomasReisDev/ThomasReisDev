@@ -4,7 +4,9 @@
 <br>
 💢 Thomas <br>
 📚 Cursando Engenharia de Software - UCB <br>
-📃 Sobre <br>
+📃 Sou um futuro engenheiro de software, apaixonado por cozinhar e programar. Trabalhar com dedicação para alcançar uma vida financeira estável e proporcionar um futuro seguro para sua futura família.
+
+ <br>
 <br>
 
 #### Certificados 
