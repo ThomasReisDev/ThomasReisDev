@@ -37,7 +37,7 @@
 
 ### ❗ Redes Socias 
 
-![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=white) ()
+![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=white&link=https%3A%2F%2Fdiscord.gg%2FCXnFCzFgQR)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=white)(https://discord.gg/CXnFCzFgQR)]
 
 
