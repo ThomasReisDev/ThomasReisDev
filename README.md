@@ -36,7 +36,7 @@
 
 ### ❗ Redes Socias 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=white)] (https://www.linkedin.com/in/thomas-reis-3ab81b281/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=white)](https://www.linkedin.com/in/thomas-reis-3ab81b281/)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=white)](https://discord.gg/CXnFCzFgQR)
 
 
