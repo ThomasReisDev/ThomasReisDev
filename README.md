@@ -2,9 +2,9 @@
 
 ## Hi, I am Thomas Jefferson 
 <br>
-💢 Thomas <br>
+💢 Thomas Jefferson Dos Reis Bezerra<br>
 📚 Cursando Engenharia de Software - UCB <br>
-📃 Sou um futuro engenheiro de software, apaixonado por cozinhar e programar. Trabalhar com dedicação para alcançar uma vida financeira estável e proporcionar um futuro seguro para sua futura família.
+📃 Sou um futuro engenheiro de software, apaixonado por cozinhar e programar. Trabalhar com dedicação para alcançar uma vida financeira estável e proporcionar um futuro seguro para minha futura família.
 
  <br>
 <br>
