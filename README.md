@@ -10,7 +10,7 @@
 <br>
 
 #### Certificados 
-[Alguns Certificados](https://resystcode.com.br/)
+![Certificados](https://img.shields.io/badge/certificados-3278fa?style=for-the-badge)
 
 ------
 
