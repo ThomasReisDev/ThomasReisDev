@@ -9,7 +9,7 @@
  <br>
 <br>
 
-[![Certificados](https://img.shields.io/badge/certificados-3278fa?style=for-the-badge)](www.resystcode.com.br)
+[![Certificados](https://img.shields.io/badge/certificados-3278fa?style=for-the-badge)](#)
 
 ------
 
