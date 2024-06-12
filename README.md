@@ -9,10 +9,7 @@
  <br>
 <br>
 
-------
-![github](https://img.shields.io/badge/GitHub-171515?style=flat&logo=Github&logoColor=171515&labelColor=white)
-
-
+[![Certificados](https://img.shields.io/badge/certificados-3278fa?style=for-the-badge)](#)
 
 
 ------
