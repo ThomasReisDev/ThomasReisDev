@@ -9,7 +9,7 @@
  <br>
 <br>
 
-[![Certificados](https://img.shields.io/badge/certificados-3278fa?style=for-the-badge)](#)
+[![Certificados](https://img.shields.io/badge/certificados-3278fa?style=for-the-badge)](https://thomasreisdev.github.io/certificados.github.io/)
 
 
 ------
