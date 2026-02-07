@@ -25,11 +25,6 @@
 
 -------
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasReisDev&hide_title=true&border_color=0e76a8&theme=transparent&show_icons=true)
--------
-
 ### ❗ Redes Socias 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&labelColor=white)](https://www.linkedin.com/in/thomas-reis-3ab81b281/)
